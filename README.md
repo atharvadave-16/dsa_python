@@ -76,7 +76,7 @@
 - [ ] Largest Rectangle in Histogram
 
 ### Binary Search
-- [ ] Binary Search
+- [X] Binary Search
 - [ ] Search a 2D Matrix
 - [ ] Koko Eating Bananas
 - [ ] Find Minimum in Rotated Sorted Array
