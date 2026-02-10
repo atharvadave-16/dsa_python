@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 1 / 200  
-**Current Streak:** 1 days  
+**Solved:** 2 / 200  
+**Current Streak:** 2 days  
 **Last Updated:** Feb 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -208,7 +208,7 @@
 - [ ] Number of 1 Bits
 - [ ] Counting Bits
 - [ ] Reverse Bits
-- [ ] Missing Number
+- [x] Missing Number
 - [ ] Sum of Two Integers
 ---
 
