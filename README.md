@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 2 / 200  
-**Current Streak:** 2 days  
+**Solved:** 3 / 200  
+**Current Streak:** 3 days  
 **Last Updated:** Feb 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -201,7 +201,7 @@
 
 ### Math & Bit Manipulation
 - [ ] Happy Number
-- [ ] Plus One
+- [x] Plus One
 - [ ] Pow(x, n)
 - [ ] Rotate Image
 - [ ] Set Matrix Zeroes
