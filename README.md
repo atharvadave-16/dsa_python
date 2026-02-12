@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 3 / 200  
-**Current Streak:** 3 days  
+**Solved:** 4 / 200  
+**Current Streak:** 4 days  
 **Last Updated:** Feb 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -155,7 +155,7 @@
 - [ ] Word Ladder
 
 ### 1-D DP
-- [ ] Climbing Stairs
+- [x] Climbing Stairs
 - [ ] Min Cost Climbing Stairs
 - [ ] House Robber
 - [ ] House Robber II
