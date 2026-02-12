@@ -8,7 +8,7 @@
 ---
 
 ## 📊 Progress
-**Solved:** 4 / 200  
+**Solved:** 5 / 200  
 **Current Streak:** 4 days  
 **Last Updated:** Feb 2026
 
@@ -43,7 +43,7 @@
 ## ✅ Tracker (NeetCode 150 + extras)
 
 ### Arrays & Hashing
-- [ ] Two Sum
+- [x] Two Sum
 - [ ] Contains Duplicate
 - [ ] Valid Anagram
 - [ ] Group Anagrams
