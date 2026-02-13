@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 5 / 200  
-**Current Streak:** 4 days  
+**Solved:** 6 / 200  
+**Current Streak:** 5 days  
 **Last Updated:** Feb 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -200,7 +200,7 @@
 - [ ] Minimum Interval to Include Each Query
 
 ### Math & Bit Manipulation
-- [ ] Happy Number
+- [x] Happy Number
 - [x] Plus One
 - [ ] Pow(x, n)
 - [ ] Rotate Image
