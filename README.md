@@ -8,9 +8,9 @@
 ---
 
 ## 📊 Progress
-**Solved:** 6 / 200  
-**Current Streak:** 5 days  
-**Last Updated:** Feb 2026
+**Solved:** 7 / 200  
+**Current Streak:** 1 days  
+**Last Updated:** march 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
 
@@ -52,7 +52,7 @@
 - [ ] Longest Consecutive Sequence
 
 ### Two Pointers
-- [ ] Valid Palindrome
+- [x] Valid Palindrome
 - [ ] Two Sum II - Input Array Is Sorted
 - [ ] 3Sum
 - [ ] Container With Most Water
