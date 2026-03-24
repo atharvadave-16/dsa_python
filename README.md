@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 7 / 200  
-**Current Streak:** 1 days  
+**Solved:** 8 / 200  
+**Current Streak:** 2 days  
 **Last Updated:** march 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -45,7 +45,7 @@
 ### Arrays & Hashing
 - [x] Two Sum
 - [ ] Contains Duplicate
-- [ ] Valid Anagram
+- [x] Valid Anagram
 - [ ] Group Anagrams
 - [ ] Top K Frequent Elements
 - [ ] Product of Array Except Self
