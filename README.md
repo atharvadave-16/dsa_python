@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 9 / 200  
-**Current Streak:** 3 days  
+**Solved:** 10 / 200  
+**Current Streak:** 4 days  
 **Last Updated:** march 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -116,7 +116,7 @@
 
 ### Heap / Priority Queue
 - [ ] Kth Largest Element in an Array
-- [ ] Last Stone Weight
+- [x] Last Stone Weight
 - [ ] K Closest Points to Origin
 - [ ] Kth Largest Element in a Stream
 - [ ] Task Scheduler
