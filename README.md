@@ -8,7 +8,7 @@
 ---
 
 ## 📊 Progress
-**Solved:** 10 / 200  
+**Solved:** 11 / 200  
 **Current Streak:** 4 days  
 **Last Updated:** march 2026
 
@@ -44,7 +44,7 @@
 
 ### Arrays & Hashing
 - [x] Two Sum
-- [ ] Contains Duplicate
+- [x] Contains Duplicate
 - [x] Valid Anagram
 - [ ] Group Anagrams
 - [ ] Top K Frequent Elements
