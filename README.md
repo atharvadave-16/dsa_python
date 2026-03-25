@@ -50,6 +50,7 @@
 - [ ] Top K Frequent Elements
 - [ ] Product of Array Except Self
 - [ ] Longest Consecutive Sequence
+- [x] Single Number 
 
 ### Two Pointers
 - [x] Valid Palindrome
