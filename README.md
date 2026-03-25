@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 8 / 200  
-**Current Streak:** 2 days  
+**Solved:** 9 / 200  
+**Current Streak:** 3 days  
 **Last Updated:** march 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -59,7 +59,7 @@
 - [ ] Trapping Rain Water
 
 ### Sliding Window
-- [ ] Best Time to Buy and Sell Stock
+- [x] Best Time to Buy and Sell Stock
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Permutation in String
