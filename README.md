@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 12 / 200  
-**Current Streak:** 4 days  
+**Solved:** 13/ 200  
+**Current Streak:** 5 days  
 **Last Updated:** march 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -157,7 +157,7 @@
 
 ### 1-D DP
 - [x] Climbing Stairs
-- [ ] Min Cost Climbing Stairs
+- [x] Min Cost Climbing Stairs
 - [ ] House Robber
 - [ ] House Robber II
 - [ ] Longest Palindromic Substring
