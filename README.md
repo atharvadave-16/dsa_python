@@ -207,7 +207,7 @@
 - [ ] Rotate Image
 - [ ] Set Matrix Zeroes
 - [ ] Number of 1 Bits
-- [ ] Counting Bits
+- [x] Counting Bits
 - [ ] Reverse Bits
 - [x] Missing Number
 - [ ] Sum of Two Integers
