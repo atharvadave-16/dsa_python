@@ -8,7 +8,7 @@
 ---
 
 ## 📊 Progress
-**Solved:** 13/ 200  
+**Solved:** 14/ 200  
 **Current Streak:** 5 days  
 **Last Updated:** march 2026
 
