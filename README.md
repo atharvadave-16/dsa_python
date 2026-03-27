@@ -8,7 +8,7 @@
 ---
 
 ## 📊 Progress
-**Solved:** 14/ 200  
+**Solved:** 15/ 200  
 **Current Streak:** 5 days  
 **Last Updated:** march 2026
 
@@ -68,7 +68,7 @@
 - [ ] Sliding Window Maximum
 
 ### Stack
-- [ ] Valid Parentheses
+- [x] Valid Parentheses
 - [ ] Min Stack
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Generate Parentheses
