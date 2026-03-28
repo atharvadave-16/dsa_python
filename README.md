@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 15/ 200  
-**Current Streak:** 5 days  
+**Solved:** 16/ 200  
+**Current Streak:** 6 days  
 **Last Updated:** march 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -61,7 +61,7 @@
 
 ### Sliding Window
 - [x] Best Time to Buy and Sell Stock
-- [ ] Longest Substring Without Repeating Characters
+- [x] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Permutation in String
 - [ ] Minimum Window Substring
