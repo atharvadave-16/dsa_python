@@ -8,7 +8,7 @@
 ---
 
 ## 📊 Progress
-**Solved:** 16/ 200  
+**Solved:** 17/ 200  
 **Current Streak:** 6 days  
 **Last Updated:** march 2026
 
@@ -208,7 +208,7 @@
 - [ ] Set Matrix Zeroes
 - [ ] Number of 1 Bits
 - [x] Counting Bits
-- [ ] Reverse Bits
+- [x] Reverse Bits
 - [x] Missing Number
 - [ ] Sum of Two Integers
 ---
