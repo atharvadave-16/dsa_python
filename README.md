@@ -8,7 +8,7 @@
 ---
 
 ## 📊 Progress
-**Solved:** 19/ 200  
+**Solved:** 20/ 200  
 **Current Streak:** 8 days  
 **Last Updated:** march 2026
 
@@ -47,7 +47,7 @@
 - [x] Contains Duplicate
 - [x] Valid Anagram
 - [ ] Group Anagrams
-- [ ] Top K Frequent Elements
+- [x] Top K Frequent Elements
 - [ ] Product of Array Except Self
 - [ ] Longest Consecutive Sequence
 - [x] Single Number 
