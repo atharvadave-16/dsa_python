@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 20/ 200  
-**Current Streak:** 8 days  
+**Solved:** 21/ 200  
+**Current Streak:** 9 days  
 **Last Updated:** march 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -48,7 +48,7 @@
 - [x] Valid Anagram
 - [ ] Group Anagrams
 - [x] Top K Frequent Elements
-- [ ] Product of Array Except Self
+- [x] Product of Array Except Self
 - [ ] Longest Consecutive Sequence
 - [x] Single Number 
 
