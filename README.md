@@ -86,7 +86,7 @@
 - [ ] Median of Two Sorted Arrays
 
 ### Linked List
-- [ ] Reverse Linked List
+- [x] Reverse Linked List
 - [ ] Merge Two Sorted Lists
 - [ ] Reorder List
 - [ ] Remove Nth Node From End of List
