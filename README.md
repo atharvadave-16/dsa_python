@@ -8,9 +8,9 @@
 ---
 
 ## 📊 Progress
-**Solved:** 21/ 200  
-**Current Streak:** 9 days  
-**Last Updated:** march 2026
+**Solved:** 22/ 200  
+**Current Streak:** 10 days  
+**Last Updated:** april 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
 
@@ -92,7 +92,7 @@
 - [ ] Remove Nth Node From End of List
 - [ ] Copy List with Random Pointer
 - [ ] Add Two Numbers
-- [ ] Linked List Cycle
+- [x] Linked List Cycle
 - [ ] Find the Duplicate Number
 - [ ] LRU Cache
 - [ ] Merge K Sorted Lists
