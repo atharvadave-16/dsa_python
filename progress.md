@@ -4,7 +4,7 @@ Goal: strengthen patterns after NeetCode 150
 
 ## Easy Boosters (20)
 - [x] shuffle the arrays
-- [ ] Extra-02
+- [x] concentation of array
 - [ ] Extra-03
 - [ ] Extra-04
 - [ ] Extra-05

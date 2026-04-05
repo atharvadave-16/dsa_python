@@ -1,4 +1,4 @@
-def shuffle(self, nums: List[int], n: int) -> List[int]:
+def shuffle(self, nums: list[int], n: int) -> list[int]:
         a = len(nums)//2
         b = nums[:a]
         c= nums[a:]
