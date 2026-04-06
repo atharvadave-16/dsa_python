@@ -9,7 +9,7 @@
 
 ## 📊 Progress
 **Solved:** 26/ 200  
-**Current Streak:** 13 days  
+**Current Streak:** 14 days  
 **Last Updated:** april 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -88,7 +88,7 @@
 ### Linked List
 - [x] Reverse Linked List
 - [x] Merge Two Sorted Lists
-- [ ] Reorder List
+- [x] Reorder List
 - [x] Remove Nth Node From End of List
 - [ ] Copy List with Random Pointer
 - [ ] Add Two Numbers
