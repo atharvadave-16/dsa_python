@@ -1,3 +1,6 @@
+from collections import defaultdict
+
+
 def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
        map = {}
        output = []
@@ -10,3 +13,14 @@ def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
         map[b] = map.get(b,[])
         map[b].append(i)
        return list(map.values())
+
+
+#sorted approach
+def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
+        groups = defaultdict(list)
+
+        for s in strs:
+            key = ''.join(sorted(s))
+            groups[key].append(s)
+
+        return list(groups.values())
