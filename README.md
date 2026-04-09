@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 27/ 200  
-**Current Streak:** 15 days  
+**Solved:** 28/ 200  
+**Current Streak:** 16 days  
 **Last Updated:** april 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -49,7 +49,7 @@
 - [x] Group Anagrams
 - [x] Top K Frequent Elements
 - [x] Product of Array Except Self
-- [ ] Longest Consecutive Sequence
+- [x] Longest Consecutive Sequence
 - [x] Single Number 
 
 ### Two Pointers
