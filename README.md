@@ -8,7 +8,7 @@
 ---
 
 ## 📊 Progress
-**Solved:** 28/ 200  
+**Solved:** 30/ 200  
 **Current Streak:** 16 days  
 **Last Updated:** april 2026
 
@@ -54,7 +54,7 @@
 
 ### Two Pointers
 - [x] Valid Palindrome
-- [ ] Two Sum II - Input Array Is Sorted
+- [x] Two Sum II - Input Array Is Sorted
 - [ ] 3Sum
 - [ ] Container With Most Water
 - [ ] Trapping Rain Water
