@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 30/ 200  
-**Current Streak:** 16 days  
+**Solved:** 31/ 200  
+**Current Streak:** 17 days  
 **Last Updated:** april 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -55,7 +55,7 @@
 ### Two Pointers
 - [x] Valid Palindrome
 - [x] Two Sum II - Input Array Is Sorted
-- [ ] 3Sum
+- [x] 3Sum
 - [ ] Container With Most Water
 - [ ] Trapping Rain Water
 
