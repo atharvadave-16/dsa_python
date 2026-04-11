@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 31/ 200  
-**Current Streak:** 17 days  
+**Solved:** 32/ 200  
+**Current Streak:** 18 days  
 **Last Updated:** april 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -69,7 +69,7 @@
 
 ### Stack
 - [x] Valid Parentheses
-- [ ] Min Stack
+- [x] Min Stack
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Generate Parentheses
 - [ ] Daily Temperatures
