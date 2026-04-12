@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 32/ 200  
-**Current Streak:** 18 days  
+**Solved:** 33/ 200  
+**Current Streak:** 19 days  
 **Last Updated:** april 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -72,7 +72,7 @@
 - [x] Min Stack
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Generate Parentheses
-- [ ] Daily Temperatures
+- [x] Daily Temperatures
 - [ ] Car Fleet
 - [ ] Largest Rectangle in Histogram
 
