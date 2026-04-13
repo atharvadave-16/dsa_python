@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 33/ 200  
-**Current Streak:** 19 days  
+**Solved:** 34/ 200  
+**Current Streak:** 20 days  
 **Last Updated:** april 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -99,7 +99,7 @@
 - [ ] Reverse Nodes in k-Group
 
 ### Trees
-- [ ] Invert Binary Tree
+- [x] Invert Binary Tree
 - [ ] Maximum Depth of Binary Tree
 - [ ] Diameter of Binary Tree
 - [ ] Balanced Binary Tree
