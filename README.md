@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 34/ 200  
-**Current Streak:** 21 days  
+**Solved:** 35/ 200  
+**Current Streak:** 22 days  
 **Last Updated:** april 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -78,7 +78,7 @@
 
 ### Binary Search
 - [X] Binary Search
-- [ ] Search a 2D Matrix
+- [x] Search a 2D Matrix
 - [ ] Koko Eating Bananas
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Search in Rotated Sorted Array
