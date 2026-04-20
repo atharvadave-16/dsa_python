@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 35/ 200  
-**Current Streak:** 26 days  
+**Solved:** 36/ 200  
+**Current Streak:** 27 days  
 **Last Updated:** april 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -103,7 +103,7 @@
 - [ ] Maximum Depth of Binary Tree
 - [ ] Diameter of Binary Tree
 - [ ] Balanced Binary Tree
-- [ ] Same Tree
+- [x] Same Tree
 - [ ] Subtree of Another Tree
 - [ ] Lowest Common Ancestor of a Binary Search Tree
 - [ ] Binary Tree Level Order Traversal
