@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 36/ 200  
-**Current Streak:** 27 days  
+**Solved:** 37/ 200  
+**Current Streak:** 28 days  
 **Last Updated:** april 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
