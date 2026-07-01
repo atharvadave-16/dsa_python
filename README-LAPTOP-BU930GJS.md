@@ -8,9 +8,9 @@
 ---
 
 ## 📊 Progress
-**Solved:** 6 / 200  
-**Current Streak:** 2 days  
-**Last Updated:** july 2026
+**Solved:** 41/ 200  
+**Current Streak:** 4 days
+**Last Updated:** may 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
 
@@ -44,40 +44,41 @@
 
 ### Arrays & Hashing
 - [x] Two Sum
-- [ ] Contains Duplicate
-- [ ] Valid Anagram
-- [ ] Group Anagrams
-- [ ] Top K Frequent Elements
-- [ ] Product of Array Except Self
-- [ ] Longest Consecutive Sequence
+- [x] Contains Duplicate
+- [x] Valid Anagram
+- [x] Group Anagrams
+- [x] Top K Frequent Elements
+- [x] Product of Array Except Self
+- [x] Longest Consecutive Sequence
+- [x] Single Number 
 
 ### Two Pointers
-- [ ] Valid Palindrome
-- [ ] Two Sum II - Input Array Is Sorted
-- [ ] 3Sum
+- [x] Valid Palindrome
+- [x] Two Sum II - Input Array Is Sorted
+- [x] 3Sum
 - [ ] Container With Most Water
 - [ ] Trapping Rain Water
 
 ### Sliding Window
-- [ ] Best Time to Buy and Sell Stock
-- [ ] Longest Substring Without Repeating Characters
-- [ ] Longest Repeating Character Replacement
-- [ ] Permutation in String
+- [x] Best Time to Buy and Sell Stock
+- [x] Longest Substring Without Repeating Characters
+- [x] Longest Repeating Character Replacement
+- [x] Permutation in String
 - [ ] Minimum Window Substring
 - [ ] Sliding Window Maximum
 
 ### Stack
-- [ ] Valid Parentheses
-- [ ] Min Stack
+- [x] Valid Parentheses
+- [x] Min Stack
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Generate Parentheses
-- [ ] Daily Temperatures
+- [x] Daily Temperatures
 - [ ] Car Fleet
 - [ ] Largest Rectangle in Histogram
 
 ### Binary Search
 - [X] Binary Search
-- [ ] Search a 2D Matrix
+- [x] Search a 2D Matrix
 - [ ] Koko Eating Bananas
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Search in Rotated Sorted Array
@@ -85,23 +86,23 @@
 - [ ] Median of Two Sorted Arrays
 
 ### Linked List
-- [ ] Reverse Linked List
-- [ ] Merge Two Sorted Lists
-- [ ] Reorder List
-- [ ] Remove Nth Node From End of List
+- [x] Reverse Linked List
+- [x] Merge Two Sorted Lists
+- [x] Reorder List
+- [x] Remove Nth Node From End of List
 - [ ] Copy List with Random Pointer
 - [ ] Add Two Numbers
-- [ ] Linked List Cycle
+- [x] Linked List Cycle
 - [ ] Find the Duplicate Number
 - [ ] LRU Cache
 - [ ] Merge K Sorted Lists
 - [ ] Reverse Nodes in k-Group
 
 ### Trees
-- [ ] Invert Binary Tree
-- [x] Maximum Depth of Binary Tree
+- [x] Invert Binary Tree
+- [ ] Maximum Depth of Binary Tree
 - [ ] Diameter of Binary Tree
-- [x] Balanced Binary Tree
+- [ ] Balanced Binary Tree
 - [x] Same Tree
 - [ ] Subtree of Another Tree
 - [ ] Lowest Common Ancestor of a Binary Search Tree
@@ -116,7 +117,7 @@
 
 ### Heap / Priority Queue
 - [ ] Kth Largest Element in an Array
-- [ ] Last Stone Weight
+- [x] Last Stone Weight
 - [ ] K Closest Points to Origin
 - [ ] Kth Largest Element in a Stream
 - [ ] Task Scheduler
@@ -156,7 +157,7 @@
 
 ### 1-D DP
 - [x] Climbing Stairs
-- [ ] Min Cost Climbing Stairs
+- [x] Min Cost Climbing Stairs
 - [ ] House Robber
 - [ ] House Robber II
 - [ ] Longest Palindromic Substring
@@ -206,8 +207,8 @@
 - [ ] Rotate Image
 - [ ] Set Matrix Zeroes
 - [ ] Number of 1 Bits
-- [ ] Counting Bits
-- [ ] Reverse Bits
+- [x] Counting Bits
+- [x] Reverse Bits
 - [x] Missing Number
 - [ ] Sum of Two Integers
 ---
