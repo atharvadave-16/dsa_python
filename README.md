@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 38 / 200  
-**Current Streak:** 2 days  
+**Solved:** 39 / 200  
+**Current Streak:** 3 days  
 **Last Updated:** july 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -101,7 +101,7 @@
 ### Trees
 - [x] Invert Binary Tree
 - [x] Maximum Depth of Binary Tree
-- [ ] Diameter of Binary Tree
+- [x] Diameter of Binary Tree
 - [x] Balanced Binary Tree
 - [x] Same Tree
 - [ ] Subtree of Another Tree
