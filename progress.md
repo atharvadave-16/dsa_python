@@ -6,7 +6,7 @@ Goal: strengthen patterns after NeetCode 150
 - [x] shuffle the arrays
 - [x] concentation of array
 - [x] binary tree inorder traversal
-- [ ] Extra-04
+- [x] binary tree preorder traversal
 - [ ] Extra-05
 - [ ] Extra-06
 - [ ] Extra-07
