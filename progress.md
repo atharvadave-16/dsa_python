@@ -7,7 +7,7 @@ Goal: strengthen patterns after NeetCode 150
 - [x] concentation of array
 - [x] binary tree inorder traversal
 - [x] binary tree preorder traversal
-- [ ] Extra-05
+- [x] symetric binary tree
 - [ ] Extra-06
 - [ ] Extra-07
 - [ ] Extra-08
