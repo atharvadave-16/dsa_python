@@ -8,7 +8,7 @@ Goal: strengthen patterns after NeetCode 150
 - [x] binary tree inorder traversal
 - [x] binary tree preorder traversal
 - [x] symetric binary tree
-- [ ] Extra-06
+- [x]min depth of tree
 - [ ] Extra-07
 - [ ] Extra-08
 - [ ] Extra-09
