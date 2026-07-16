@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 45 / 200  
-**Current Streak:** 16 days  
+**Solved:** 46 / 200  
+**Current Streak:** 17 days  
 **Last Updated:** july 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -83,7 +83,7 @@
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Search in Rotated Sorted Array
 - [ ] Time Based Key-Value Store
-- [ ] Median of Two Sorted Arrays
+- [x] Median of Two Sorted Arrays
 
 ### Linked List
 - [x] Reverse Linked List
