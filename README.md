@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 44 / 200  
-**Current Streak:** 15 days  
+**Solved:** 45 / 200  
+**Current Streak:** 16 days  
 **Last Updated:** july 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -104,7 +104,7 @@
 - [x] Diameter of Binary Tree
 - [x] Balanced Binary Tree
 - [x] Same Tree
-- [ ] Subtree of Another Tree
+- [x] Subtree of Another Tree
 - [ ] Lowest Common Ancestor of a Binary Search Tree
 - [ ] Binary Tree Level Order Traversal
 - [ ] Binary Tree Right Side View
