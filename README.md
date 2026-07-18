@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 49/ 200  
-**Current Streak:** 18 days  
+**Solved:** 50/ 200  
+**Current Streak:** 19 days  
 **Last Updated:** july 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -108,7 +108,7 @@
 - [ ] Lowest Common Ancestor of a Binary Search Tree
 - [ ] Binary Tree Level Order Traversal
 - [ ] Binary Tree Right Side View
-- [ ] Count Good Nodes in Binary Tree
+- [x] Count Good Nodes in Binary Tree
 - [ ] Validate Binary Search Tree
 - [ ] Kth Smallest Element in a BST
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
