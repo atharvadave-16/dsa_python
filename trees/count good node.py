@@ -1,3 +1,5 @@
+from typing import Optional
+from typing import TreeNode
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
         def df(node, maxSoFar):
