@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 50/ 200  
-**Current Streak:** 19 days  
+**Solved:** 51/ 200  
+**Current Streak:** 20 days  
 **Last Updated:** july 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -109,7 +109,7 @@
 - [ ] Binary Tree Level Order Traversal
 - [ ] Binary Tree Right Side View
 - [x] Count Good Nodes in Binary Tree
-- [ ] Validate Binary Search Tree
+- [x] Validate Binary Search Tree
 - [ ] Kth Smallest Element in a BST
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] Binary Tree Maximum Path Sum
