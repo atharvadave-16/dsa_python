@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 51/ 200  
-**Current Streak:** 20 days  
+**Solved:** 52/ 200  
+**Current Streak:** 21 days  
 **Last Updated:** july 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -206,7 +206,7 @@
 - [ ] Pow(x, n)
 - [ ] Rotate Image
 - [ ] Set Matrix Zeroes
-- [ ] Number of 1 Bits
+- [x] Number of 1 Bits
 - [x] Counting Bits
 - [x] Reverse Bits
 - [x] Missing Number
