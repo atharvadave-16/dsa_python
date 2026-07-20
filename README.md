@@ -9,7 +9,7 @@
 
 ## 📊 Progress
 **Solved:** 52/ 200  
-**Current Streak:** 21 days  
+**Current Streak:** 22 days  
 **Last Updated:** july 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
