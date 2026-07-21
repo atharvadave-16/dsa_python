@@ -8,7 +8,7 @@
 ---
 
 ## 📊 Progress
-**Solved:** 53/ 200  
+**Solved:** 54/ 200  
 **Current Streak:** 23 days  
 **Last Updated:** july 2026
 
@@ -107,7 +107,7 @@
 - [x] Subtree of Another Tree
 - [ ] Lowest Common Ancestor of a Binary Search Tree
 - [x] Binary Tree Level Order Traversal
-- [ ] Binary Tree Right Side View
+- [x] Binary Tree Right Side View
 - [x] Count Good Nodes in Binary Tree
 - [x] Validate Binary Search Tree
 - [ ] Kth Smallest Element in a BST
