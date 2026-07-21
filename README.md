@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 52/ 200  
-**Current Streak:** 22 days  
+**Solved:** 53/ 200  
+**Current Streak:** 23 days  
 **Last Updated:** july 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -106,7 +106,7 @@
 - [x] Same Tree
 - [x] Subtree of Another Tree
 - [ ] Lowest Common Ancestor of a Binary Search Tree
-- [ ] Binary Tree Level Order Traversal
+- [x] Binary Tree Level Order Traversal
 - [ ] Binary Tree Right Side View
 - [x] Count Good Nodes in Binary Tree
 - [x] Validate Binary Search Tree
