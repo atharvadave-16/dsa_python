@@ -12,10 +12,14 @@ def containsDuplicate(self, nums):
         return False
 
 
-def containsDuplicate(self, nums):
-        unique = set(nums)
-        
-        if len(unique) != len(nums):
+# Pattern: Set
+# Approach: set removes duplicates, compare lengths
+# Key trick: len(set(nums)) != len(nums) means duplicate exists
+# TC: O(n) | SC: O(n)
+
+class Solution:
+    def containsDuplicate(self, nums: list[int]) -> bool:
+        a = set(nums)
+        if len(a) != len(nums):
             return True
-        else:
-            return False
+        else : return False
