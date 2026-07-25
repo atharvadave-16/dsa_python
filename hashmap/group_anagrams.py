@@ -1,26 +1,18 @@
-from collections import defaultdict
-
-
-def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
-       map = {}
-       output = []
+class Solution:
+    def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
+       a = {}
        for i in strs:
-        a = [0]*26
-        for j in i:
-           index = ord(j) - ord("a")
-           a[index] += 1 
-        b = tuple(a)
-        map[b] = map.get(b,[])
-        map[b].append(i)
-       return list(map.values())
+          key = "".join(sorted(i))
+          if key not in a:
+             a[key] = []      
+             a[key].append(i) 
+          else:
+                  a[key].append(i)
 
+       return list(a.values())
 
-#sorted approach
-def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
-        groups = defaultdict(list)
-
-        for s in strs:
-            key = ''.join(sorted(s))
-            groups[key].append(s)
-
-        return list(groups.values())
+# Pattern: HashMap with sorted key
+# Approach: sort each word → use as key, group words with same key
+# Key trick: "".join(sorted(word)) gives same key for all anagrams
+# Shortcut: defaultdict(list) avoids checking if key exists
+# TC: O(n * k log k) where k = max word length | SC: O(n)    
