@@ -24,3 +24,7 @@ def isAnagram(self, s, t):
         a[s[i]] = a.get(s[i], 0) + 1
         b[t[i]] = b.get(t[i], 0) + 1
     return a == b
+
+
+# one liner but o(nlogn) solution
+# return sorted(s) == sorted(t)
