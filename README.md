@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 57/ 200  
-**Current Streak:** 26 days  
+**Solved:** 58/ 200  
+**Current Streak:** 27 days  
 **Last Updated:** july 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -112,7 +112,7 @@
 - [x] Validate Binary Search Tree
 - [x] Kth Smallest Element in a BST
 - [x] Construct Binary Tree from Preorder and Inorder Traversal
-- [ ] Binary Tree Maximum Path Sum
+- [x] Binary Tree Maximum Path Sum
 - [ ] Serialize and Deserialize Binary Tree
 
 ### Heap / Priority Queue
