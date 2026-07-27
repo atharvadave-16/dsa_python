@@ -27,3 +27,10 @@ class Codec:
             node.right = dfs()
             return node
         return dfs() 
+
+
+# Pattern: Preorder DFS serialization
+# Approach: serialize → preorder traversal, "" for nulls, join with ","
+#           deserialize → split by ",", rebuild using same preorder order
+# Key trick: self.i tracks current position across recursive calls
+# TC: O(n) | SC: O(n)    
