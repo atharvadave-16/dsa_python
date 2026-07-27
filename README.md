@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 58/ 200  
-**Current Streak:** 27 days  
+**Solved:** 59/ 200  
+**Current Streak:** 28 days  
 **Last Updated:** july 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -113,7 +113,7 @@
 - [x] Kth Smallest Element in a BST
 - [x] Construct Binary Tree from Preorder and Inorder Traversal
 - [x] Binary Tree Maximum Path Sum
-- [ ] Serialize and Deserialize Binary Tree
+- [x] Serialize and Deserialize Binary Tree
 
 ### Heap / Priority Queue
 - [ ] Kth Largest Element in an Array
