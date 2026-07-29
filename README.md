@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 59/ 200  
-**Current Streak:** 29 days  
+**Solved:** 60/ 200  
+**Current Streak:** 230 days  
 **Last Updated:** july 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -116,7 +116,7 @@
 - [x] Serialize and Deserialize Binary Tree
 
 ### Heap / Priority Queue
-- [ ] Kth Largest Element in an Array
+- [x] Kth Largest Element in an Array
 - [x] Last Stone Weight
 - [ ] K Closest Points to Origin
 - [ ] Kth Largest Element in a Stream
