@@ -8,9 +8,9 @@
 ---
 
 ## 📊 Progress
-**Solved:** 61/ 200  
-**Current Streak:** 32 days  
-**Last Updated:** july 2026
+**Solved:** 62/ 200  
+**Current Streak:** 33 days  
+**Last Updated:** aug 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
 
@@ -119,7 +119,7 @@
 - [x] Kth Largest Element in an Array
 - [x] Last Stone Weight
 - [x] K Closest Points to Origin
-- [ ] Kth Largest Element in a Stream
+- [x] Kth Largest Element in a Stream
 - [ ] Task Scheduler
 - [ ] Design Twitter
 - [ ] Find Median from Data Stream
