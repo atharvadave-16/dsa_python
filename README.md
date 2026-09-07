@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 64/ 200  
-**Current Streak:** 4 days  
+**Solved:** 65/ 200  
+**Current Streak:** 5 days  
 **Last Updated:** sept 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -57,7 +57,7 @@
 - [x] Two Sum II - Input Array Is Sorted
 - [x] 3Sum
 - [ ] Container With Most Water
-- [ ] Trapping Rain Water
+- [x] Trapping Rain Water
 
 ### Sliding Window
 - [x] Best Time to Buy and Sell Stock
