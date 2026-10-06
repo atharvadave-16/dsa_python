@@ -10,7 +10,7 @@ Goal: strengthen patterns after NeetCode 150
 - [x] symetric binary tree
 - [x]min depth of tree
 - [x] spiral matrix
-- [ ] Extra-08
+- [x] matrix diagonal sum
 - [ ] Extra-09
 - [ ] Extra-10
 - [ ] Extra-11
