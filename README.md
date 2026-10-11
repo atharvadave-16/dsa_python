@@ -8,7 +8,7 @@
 ---
 
 ## 📊 Progress
-**Solved:** 69/ 200  
+**Solved:** 70/ 200  
 **Current Streak:** 3 days  
 **Last Updated:** oct 2026
 
@@ -81,7 +81,7 @@
 - [x] Search a 2D Matrix
 - [ ] Koko Eating Bananas
 - [ ] Find Minimum in Rotated Sorted Array
-- [ ] Search in Rotated Sorted Array
+- [x] Search in Rotated Sorted Array
 - [ ] Time Based Key-Value Store
 - [x] Median of Two Sorted Arrays
 
