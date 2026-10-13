@@ -11,7 +11,7 @@ Goal: strengthen patterns after NeetCode 150
 - [x]min depth of tree
 - [x] spiral matrix
 - [x] matrix diagonal sum
-- [ ] Extra-09
+- [x] sort colours
 - [ ] Extra-10
 - [ ] Extra-11
 - [ ] Extra-12
