@@ -8,8 +8,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 71/ 200  
-**Current Streak:** 4 days  
+**Solved:** 72/ 200  
+**Current Streak:** 5 days  
 **Last Updated:** oct 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -160,7 +160,7 @@
 - [x] Min Cost Climbing Stairs
 - [ ] House Robber
 - [ ] House Robber II
-- [ ] Longest Palindromic Substring
+- [x] Longest Palindromic Substring
 - [ ] Palindromic Substrings
 - [ ] Decode Ways
 - [ ] Coin Change
