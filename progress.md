@@ -12,7 +12,7 @@ Goal: strengthen patterns after NeetCode 150
 - [x] spiral matrix
 - [x] matrix diagonal sum
 - [x] sort colours
-- [ ] Extra-10
+- [x] single number
 - [ ] Extra-11
 - [ ] Extra-12
 - [ ] Extra-13
